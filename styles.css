@@ -1,0 +1,7 @@
+body {
+    overflow-y: hidden; /* Hide vertical scrollbar */
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+  }
+  .bg-secondary {
+    background-color: rgba(235, 22, 22, 0.25) !important;
+}
